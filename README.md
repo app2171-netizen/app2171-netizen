@@ -31,7 +31,26 @@ I'm a civil engineer finishing my **MS in Civil Engineering & Engineering Mechan
 
 ---
 
-### Featured project
+### Featured projects
+
+<table>
+<tr>
+<td width="40%">
+  <a href="https://github.com/app2171-netizen/construction-project-controls-dashboard">
+    <img src="https://raw.githubusercontent.com/app2171-netizen/construction-project-controls-dashboard/main/docs/screenshots/overview.png" width="100%" />
+  </a>
+</td>
+<td>
+
+**[📊 Construction Project Controls Dashboard](https://github.com/app2171-netizen/construction-project-controls-dashboard)**
+
+A Python tool that turns schedule, cash flow, change order and risk data into a one-page project health dashboard: critical-path slippage, cost variance to date, commitment exposure, change order reconciliation, and risk ownership. In review, I found and fixed a cost-to-date error that had reported an **over-budget project as 17% under plan**.
+
+`Python` `Project Controls` `Cost & Schedule` `Data Visualization`
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
