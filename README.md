@@ -36,6 +36,25 @@ I'm a civil engineer finishing my **MS in Civil Engineering & Engineering Mechan
 <table>
 <tr>
 <td width="40%">
+  <a href="https://github.com/app2171-netizen/construction-evm-database">
+    <img src="https://raw.githubusercontent.com/app2171-netizen/construction-evm-database/main/outputs/portfolio_cpi_spi.png" width="100%" />
+  </a>
+</td>
+<td>
+
+**[🏗️ Construction Program Controls Database & EVM Engine](https://github.com/app2171-netizen/construction-evm-database)**
+
+A SQL database for a 5-project, ~$290M infrastructure program, with an Earned Value Management engine built in SQL views (CPI, SPI, EAC, VAC) and Python S-curve reporting. The analysis flags a project heading **$17.6M over budget** and traces the overrun to concrete work bought above budget.
+
+`SQL` `SQLite` `Python` `pandas` `Earned Value Management`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40%">
   <a href="https://github.com/app2171-netizen/construction-project-controls-dashboard">
     <img src="https://raw.githubusercontent.com/app2171-netizen/construction-project-controls-dashboard/main/docs/screenshots/overview.png" width="100%" />
   </a>
@@ -87,6 +106,7 @@ Two XArm7 robot arms learn to seat a timber joint to a **2 mm tolerance** in MuJ
 **Programming, data & AI**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
